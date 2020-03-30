@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "530878184273",
+    "firebase_url": "https://needblood-da53d.firebaseio.com",
+    "project_id": "needblood-da53d",
+    "storage_bucket": "needblood-da53d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530878184273:android:fada9441f6eb0804b17170",
+        "android_client_info": {
+          "package_name": "com.needblood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "530878184273-83dviru3v20b8pcm1h77t2uh2j59mdqo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBa_dgwvPmBqtVMrndB8Lzwe7TO9JQ_BpU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "530878184273-83dviru3v20b8pcm1h77t2uh2j59mdqo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
