@@ -26,11 +26,11 @@ access that data in the blood bank page. If user willing to be a donor or change
 can do using the edit page.
 
 ### Advantages:
-This project has the login page which allows the user to login and thereby used to prevent
+. This project has the login page which allows the user to login and thereby used to prevent
 the unauthorized access.
-This is used to view all the donor details and can select the right donor accordingly.
-The android mobile user can make the quick decision in selecting the right donor.
-Usage of this application will greatly reduce the time and effort in selecting the donor.
+. This is used to view all the donor details and can select the right donor accordingly.
+. The android mobile user can make the quick decision in selecting the right donor.
+. Usage of this application will greatly reduce the time and effort in selecting the donor.
 
 ### Disadvantages:
 The android mobile user will not be able to insert or view details if the server goes down.
