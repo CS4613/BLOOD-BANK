@@ -41,7 +41,10 @@ The android mobile user will not be able to insert or view details if the server
 This is the main disadvantage of the single point failure.
 
 ### Implementations:
-Implemented the UI of the application. Working on the backend of the project using the firebase. We expect to complete the project on or before the timeline
+Implemented the UI of the application. Working on the backend of the project using the firebase. We expect to complete the project on or before the timeline.
+
+To see the UI of the project so far, please give the username: ###abc@gmail.com and password: ###testtest as we are still working on the back-end
+
 
 ### Timeline:
 The estimated time to complete the application will be on or before second week of April.
