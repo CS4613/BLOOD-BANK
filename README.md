@@ -43,7 +43,7 @@ This is the main disadvantage of the single point failure.
 ### Implementations:
 Implemented the UI of the application. Working on the backend of the project using the firebase. We expect to complete the project on or before the timeline.
 
-To see the UI of the project so far, please give the username: abc@gmail.com and password: testtest as we are still working on the back-end
+To see the UI of the project so far, please give the username: abc@gmail.com and password: testtest in the login page as we are still working on the back-end
 
 
 ### Timeline:
