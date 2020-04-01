@@ -2,6 +2,7 @@
 
 ### Developers: 
 Madhavi Durga Nalluri
+
 Venkata Sai Teja Nethi
 
 ### Description:
@@ -52,6 +53,9 @@ We are working on the back end of the application like connecting the firebase a
 ### Software Requirements
 In order to run this app, we need the
 1. Latest version of Android Studio
+
 2. Programming Language: Java
+
 3. Firebase
+
 4.Json
