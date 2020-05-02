@@ -1,11 +1,11 @@
 # Blood Bank
 
-### Developers: 
+# Developers: 
 Madhavi Durga Nalluri
 
 Venkata Sai Teja Nethi
 
-### Description:
+# Description:
 Our project main aim is to play a vital role in saving life of human beings. This project is
 developed so that users can view the information about the registered blood donors such as their
 names, address and personal information along with the blood groups and the health information
@@ -26,7 +26,7 @@ page. If the user searching for the number of blood units available in the blood
 access that data in the blood bank page. If user willing to be a donor or change his details he/she
 can do using the edit page.
 
-### Advantages:
+# Advantages:
 . This project has the login page which allows the user to login and thereby used to prevent
 the unauthorized access.
 
@@ -36,22 +36,22 @@ the unauthorized access.
 
 . Usage of this application will greatly reduce the time and effort in selecting the donor.
 
-### Disadvantages:
+# Disadvantages:
 The android mobile user will not be able to insert or view details if the server goes down.
 This is the main disadvantage of the single point failure.
 
-### Implementations:
+# Implementations:
 Backend Server
 User Interface
 JSON file using cloud store
 
-### Timeline:
+# Timeline:
 Completed.
 
-### Issues
+# Issues
 No issues so far. Everything is updated.
 
-### Software Requirements
+# Software Requirements
 In order to run this app, we need the
 1. Latest version of Android Studio
 
