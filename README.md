@@ -41,17 +41,15 @@ The android mobile user will not be able to insert or view details if the server
 This is the main disadvantage of the single point failure.
 
 ### Implementations:
-Implemented the UI of the application. Working on the backend of the project using the firebase. We expect to complete the project on or before the timeline.
-
-To see the UI of the project so far, please give the username: abc@gmail.com and password: testtest in the login page as we are still working on the back-end
-
+Backend Server
+User Interface
+JSON file using cloud store
 
 ### Timeline:
-The estimated time to complete the application will be on or before second week of April.
+Completed.
 
 ### Issues
-As far as now we don't have any issues. Even though we have some it has been rectified.
-We are working on the back end of the application like connecting the firebase and creating the database for the application.
+No issues so far. Everything is updated.
 
 ### Software Requirements
 In order to run this app, we need the
